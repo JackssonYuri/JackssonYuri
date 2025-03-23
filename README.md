@@ -33,6 +33,19 @@ Dividi minha análise em três páginas interativas, permitindo explorar diferen
 3️⃣ Exploração Individual – Um diferencial do projeto: um filtro interativo que permite selecionar um Pokémon específico e visualizar todos os seus detalhes em tempo real!
 Além disso, implementei filtros dinâmicos para refinar a busca por geração, tipo, atributos e muito mais.
 
+🔹 [Projeto 2](https://github.com/JackssonYuri/web-scraping-overclock) - Nesse projeto, utilizei o Selenium para realizar o web scraping de dados de produtos da Overclock, visando coletar informações detalhadas sobre os itens disponíveis para análise.
+
+📌 Quais são os produtos mais vendidos e com as melhores avaliações? 📌 Quais categorias de produtos possuem os maiores preços e as melhores promoções?
+
+💡 O que há de especial na minha análise? 
+1️⃣ Coleta de Dados: Utilizo o Selenium para navegar dinamicamente pelas páginas do site da Overclock e extrair informações de produtos como nome, preço, categoria e avaliações. 
+2️⃣ Análise Interativa: A análise é feita no Power BI, onde as informações extraídas são organizadas e visualizadas interativamente, permitindo que os usuários explorem as tendências de preços, popularidade e outras métricas. 
+3️⃣ Insights de Mercado: Além de mostrar produtos populares e categorias com maior demanda, também implementei gráficos interativos que destacam as variações de preço e as relações entre preço e avaliação dos produtos.
+
+Esse projeto integra scraping de dados em tempo real com visualizações interativas, oferecendo uma maneira eficiente de monitorar e analisar o mercado de produtos na Overclock.
+
+
+
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackssonyuri)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jack.yuri)
